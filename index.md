@@ -25,3 +25,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 ```
+
+- [x] List syntax is required
+- [x] Make a task list
+- [ ] This item is not complete
